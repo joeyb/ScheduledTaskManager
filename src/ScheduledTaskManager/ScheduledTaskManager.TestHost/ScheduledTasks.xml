@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScheduledTaskConfigs>
+  <ScheduledTaskConfig>
+    <FullTypeName>ScheduledTaskManager.TestPlugin.TestPlugin</FullTypeName>
+    <AssemblyName>ScheduledTaskManager.TestPlugin.dll</AssemblyName>
+    <FolderName>ScheduledTaskManager.TestPlugin</FolderName>
+    <CronExpression>*/1 * * * *</CronExpression>
+  </ScheduledTaskConfig>
+</ScheduledTaskConfigs>
